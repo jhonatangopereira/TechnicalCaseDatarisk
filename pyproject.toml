@@ -1,7 +1,7 @@
 [project]
 name = "technicalcasedatarisk"
 version = "0.1.0"
-description = "Add your description here"
+description = "Este projeto tem como objetivo analisar e prever quais clientes possuem risco de atrasar pagamentos utilizando técnicas de ciência de dados e aprendizado de máquina. A partir de bases de dados reais, são realizadas etapas de exploração, limpeza, análise estatística e modelagem preditiva, com foco em previsão de probabilidade de inadimplência."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
